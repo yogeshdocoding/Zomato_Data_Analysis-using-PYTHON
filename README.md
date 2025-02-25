@@ -18,7 +18,6 @@ This project takes a deep dive into Zomato restaurant data to spot trends and un
 
 ### What We Learned
 - **Popular Restaurant Types:** Most restaurants are focused on dine-in services, showing people still love going out to eat.
-- ![Zomato Analysis]("C:/Users/yoges/Downloads/Zomato_Data_Analysis/output_5_0.png")
 - **Online Ordering:** A lot of places still don’t offer online ordering, which could be an opportunity for growth.
 - **Ratings:** Ratings tend to sit around the mid-range, with fewer places getting extremely high or low scores.
 - **Cost Trends:** The average cost for two people is usually around 300 rupees, making it a sweet spot for affordability.
